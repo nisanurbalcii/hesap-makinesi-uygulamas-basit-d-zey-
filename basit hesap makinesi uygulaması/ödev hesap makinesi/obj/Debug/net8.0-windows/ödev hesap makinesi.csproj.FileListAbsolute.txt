@@ -1,0 +1,32 @@
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.exe
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.deps.json
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.runtimeconfig.json
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.dll
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.pdb
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev_hesap_makinesi.Form1.resources
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.csproj.GenerateResource.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.AssemblyInfo.cs
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.dll
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\refint\ödev hesap makinesi.dll
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.pdb
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.genruntimeconfig.cache
+C:\Users\Nisa\Desktop\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ref\ödev hesap makinesi.dll
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.exe
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.deps.json
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.runtimeconfig.json
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.dll
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\bin\Debug\net8.0-windows\ödev hesap makinesi.pdb
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev_hesap_makinesi.Form1.resources
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.csproj.GenerateResource.cache
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.AssemblyInfo.cs
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.dll
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\refint\ödev hesap makinesi.dll
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.pdb
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ödev hesap makinesi.genruntimeconfig.cache
+C:\Users\Nisa\Desktop\c# arda hoca\c# arda hoca 2. dönem\ödev hesap makinesi\ödev hesap makinesi\obj\Debug\net8.0-windows\ref\ödev hesap makinesi.dll
